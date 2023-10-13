@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059243169233",
+    "project_id": "analytics-581d7",
+    "storage_bucket": "analytics-581d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059243169233:android:5121ebe07302ab526cfcf0",
+        "android_client_info": {
+          "package_name": "net.redeemx.patron.samplefire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCddFlWvPTlLcwnGRkdV0eSbgRwXWdQrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
